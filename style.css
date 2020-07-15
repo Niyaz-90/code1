@@ -194,6 +194,6 @@ body {
 }
 .ne {
   color: white;
-  border: 10px solid red;
+  background-color:red;
   
 }
