@@ -193,5 +193,7 @@ body {
   background-image: url("img/icon-phone-footer.svg");
 }
 .ne {
-  color: red;
+  color: white;
+  border: 1px red;
+  
 }
